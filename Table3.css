@@ -1,0 +1,26 @@
+table
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+th
+{
+    border: 2px solid black;
+}
+td
+{
+    border: 2px solid black;
+    
+}
+.q
+{
+    color: green;
+    background: greenyellow;
+}
+.nq
+{
+    color: red;
+    background:pink;
+
+}
